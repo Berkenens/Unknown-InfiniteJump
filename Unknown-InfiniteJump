@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Subscribe To xMiles_Games";
-    Text = "Subscribe For More Scripts"; -- what the text says (ofc)
+    Title = "Skygui-Hitbox";
+    Text = "Made By Thorfinn"; -- what the text says (ofc)
     Duration = 60;
 })
 
